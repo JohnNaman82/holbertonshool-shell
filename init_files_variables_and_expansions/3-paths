@@ -1,2 +1,2 @@
 #!/bin/bash
-export PATH="$PATH:::::/hello" 
+echo $PATH=/bin::::/home:/usr:::::/home/me
